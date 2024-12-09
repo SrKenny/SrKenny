@@ -6,7 +6,6 @@
    
 I'm currently searching more about myself and what i like in this tech world.
 My focus is:
-  - 🌐 Learn Django to work with backend;
   - 😃 Learning IA, to work with already exists technology, and trying to create one by myself(I really are inspired by Neuro-sama, created by vedal987🐢);
      - Very difficult, so need more knowledge in python to work;
   - 🎮 Learning how to make games because i just love games(Still in progress. Important things appears.);
@@ -14,9 +13,7 @@ My focus is:
 ## Estou aprendendo
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="60" height="60"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" width="60" height="60"/>          
 </div>
 
 ## GitHub Stats
